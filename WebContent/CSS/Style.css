@@ -1,0 +1,7 @@
+@CHARSET "EUC-KR";
+
+/* Text Style */
+.textMenu{
+	font: normal 9px verdana, arial, helvetica, sans-serif;
+	text-decoration: none;
+}
